@@ -40,6 +40,11 @@ To prevent dog owners from facing these problems, I wanted to create an app that
 1.To provide information regarding the pets, we have datasets that contain information regarding dog breeds
 2.To provide information about vets near the pet owners, we are going to use Google Places APIs
 3.Using frontend technologies that have been specified to build the app.
+he App has a very simple and interactive interface which helps the students select their route bus and track its location. Following are few android concepts used to achieve 
+4.Constraint Layout : Most of the activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.
+5.Simple & Easy Views Design : Use of familiar audience EditText with hints and interactive buttons made it easier for users to interact without providing any detailed instructions pages. Apps also uses App Navigation to switch between different screens.
+6.Google Maps API : I also used the Google Maps API free version for below 1000 users. In future if the user base increases I will go for the upgraded plan too.
+
 The hardware that was used by me was:
 Windows 10 enabled laptop/desktop.
 Android Simulator/Smartphone.
