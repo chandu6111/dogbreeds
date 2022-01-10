@@ -1,27 +1,43 @@
-# dogbreeds
-**PAW-NATION APP**
+# Android Study Jams
+**PAW-NATION APP** 
+
+**Theme: Private/Individual solution app**
+
 **Problem Statement:**
+
 The complications faced by people owning pets: 
-1.Not knowing how to care for them
-2.Not having easy access to places which sell the necessities that are required to raise pets
-3.Finding vets in the vicinity to care for their health  
-4.Finding information regarding their grooming.
+1) Not knowing how to care for them.
+2) Not having easy access to places which sell the necessities that are required to raise pets.
+3) Finding vets in the vicinity to care for their health.
+4) Finding information regarding their grooming.
+
 **Proposed Solution:**
+
 To prevent dog owners from facing these problems, I wanted to create an app that can perform the below functionalities. 
+
 **Functionality:**
-1.To provide information about the breed of pet which mostly include:
-        -Climatic conditions it can fit into
-        -Its origin
-        -Common traits
-        - Shedding of fur(if any)
-        -Life span
-        -Friendliness with human beings.
-2.To display information about nutrition and wellness of the breed.
-3.To let the user know about the health risks associated with the breed.
-4.To give grooming tips about their dog breeds.
-5.To provide a section where you can access a veterinarian in and around the owners’ surroundings.
-6.The app will also provide shopping links for all necessities of the dog breed(be it food, grooming essentials etc)
+
+1) To provide information about the breed of pet which mostly include:
+
+> - Climatic conditions it can fit into
+> - Its origin
+> - Common traits
+> - Shedding of fur(if any)
+> - Life span
+> - Friendliness with human beings.
+        
+2) To display information about nutrition and wellness of the breed.
+
+3) To let the user know about the health risks associated with the breed.
+
+4) To give grooming tips about their dog breeds.
+
+5) To provide a section where you can access a veterinarian in and around the owners’ surroundings.
+
+6) The app will also provide shopping links for all necessities of the dog breed(be it food, grooming essentials etc)
+
 **Screenshots:**
+
 <img width="273" alt="doggui" src="https://user-images.githubusercontent.com/69782520/148675738-fa788197-6fe6-4426-84a8-5d686b98c57e.png">
 <img width="184" alt="dog0" src="https://user-images.githubusercontent.com/69782520/148675680-c02b7df5-fa3f-44ec-aca1-433eca1f962d.png">
 <img width="185" alt="dog1" src="https://user-images.githubusercontent.com/69782520/148675694-d0aa325d-5092-4f02-b484-236ee76c1481.png">
@@ -37,31 +53,39 @@ To prevent dog owners from facing these problems, I wanted to create an app that
 <img width="260" alt="dog11" src="https://user-images.githubusercontent.com/69782520/148675735-a482744e-0416-4219-a479-e6d21e1dc1ab.png">
 
 **Concepts Used:**
-1.To provide information regarding the pets, we have datasets that contain information regarding dog breeds
-2.To provide information about vets near the pet owners, we are going to use Google Places APIs
-3.Using frontend technologies that have been specified to build the app.
-he App has a very simple and interactive interface which helps the students select their route bus and track its location. Following are few android concepts used to achieve 
-4.Constraint Layout : Most of the activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.
-5.Simple & Easy Views Design : Use of familiar audience EditText with hints and interactive buttons made it easier for users to interact without providing any detailed instructions pages. Apps also uses App Navigation to switch between different screens.
-6.Google Maps API : I also used the Google Maps API free version for below 1000 users. In future if the user base increases I will go for the upgraded plan too.
 
-The hardware that was used by me was:
-Windows 10 enabled laptop/desktop.
-Android Simulator/Smartphone.
-Processor: Intel(R) Core(TM) i5 and above.
-Hard Disk Capacity:256 GB
-RAM Capacity	:8.00 GB
-The software that was used by me was:
-Platform- Android Developmment Studio
-FRONT END
-Kotlin
-Android Development Studio
-Java
-Javascript
-Html,CSS
+1) To provide information regarding the pets, we have datasets that contain information regarding dog breeds.
+
+2) To provide information about vets near the pet owners, we are going to use Google Places APIs.
+
+3) Using frontend technologies that have been specified to build the app.
+
+- This app has a very simple and interactive interface which helps the people to navigate between different screens. Following are few android concepts used to achieve it:
+- **Constraint Layout** : Most of the activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.
+- **Simple & Easy Views Design** : Use of familiar audience EditText with hints and interactive buttons made it easier for users to interact without providing any detailed instructions pages. Apps also uses App Navigation to switch between different screens.
+- **Recycler View** : This app uses recycler view to display all the shopping items list.
+- **LiveData** : I also used the Google Maps API free version (for locating nearby vets) for below 1000 users. In future if the user base increases I will go for the upgraded plan too. 
+
+The **hardware** that was used by me was:
+> - Windows 10 enabled laptop/desktop.
+> - Android Simulator/Smartphone.
+> - Processor: Intel(R) Core(TM) i5 and above.
+> - Hard Disk Capacity:256 GB
+> - RAM Capacity :8.00 GB
+
+The **software** that was used by me was:
+> - Platform- Android Developmment Studio with Kotlin
+
 **Application link and future scope:**
-The app is currently in the Alpha testing phase with GNITS institute with a limited no. of users, You can access the app : 
-1.More features such as saving the details of pets can be added.
-2.Can also include image search or voice search for any details about the dogs.
-3.Can improve the workflow of the app.
-4.Can enhance user’s accessibility by providing Account registration.
+
+The app is currently in the Alpha testing phase with us with a limited no. of users, You can access the app : https://github.com/Deepti2028/dogbreeds/releases
+
+**Future Scope**
+
+1) More features such as saving the details of pets can be added.
+
+2) Can also include image search or voice search for any details about the dogs.
+
+3) Can improve the workflow of the app.
+
+4) Can enhance user’s accessibility by providing Account registration.
