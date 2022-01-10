@@ -60,11 +60,11 @@ To prevent dog owners from facing these problems, I wanted to create an app that
 
 3) Using frontend technologies that have been specified to build the app.
 
-> - This app has a very simple and interactive interface which helps the people to navigate between different screens. Following are few android concepts used to achieve it:
-> - **Constraint Layout** : Most of the activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.
-> - **Simple & Easy Views Design** : Use of familiar audience EditText with hints and interactive buttons made it easier for users to interact without providing any detailed instructions pages. Apps also uses App Navigation to switch between different screens.
-> - **Recycler View** : This app uses recycler view to display all the shopping items list.
-> - **LiveData** : I also used the Google Maps API free version (for locating nearby vets) for below 1000 users. In future if the user base increases I will go for the upgraded plan too. 
+- This app has a very simple and interactive interface which helps the people to navigate between different screens. Following are few android concepts used to achieve it:
+- **Constraint Layout** : Most of the activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.
+- **Simple & Easy Views Design** : Use of familiar audience EditText with hints and interactive buttons made it easier for users to interact without providing any detailed instructions pages. Apps also uses App Navigation to switch between different screens.
+- **Recycler View** : This app uses recycler view to display all the shopping items list.
+- **LiveData** : I also used the Google Maps API free version (for locating nearby vets) for below 1000 users. In future if the user base increases I will go for the upgraded plan too. 
 
 The **hardware** that was used by me was:
 > - Windows 10 enabled laptop/desktop.
