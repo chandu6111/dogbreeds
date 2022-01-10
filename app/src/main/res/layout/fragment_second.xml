@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/gotolaunchmaps"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F8F1F1"
+    android:backgroundTint="#4647CF"
+    tools:context=".SecondFragment">
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="397dp"
+        android:layout_height="307dp"
+        android:layout_marginTop="104dp"
+        android:layout_marginBottom="320dp"
+        android:backgroundTint="#FFFFFF"
+        android:text="Pets are comforting companions. They keep us healthy and relieve stress. They play and show us love. They keep us from being lonely."
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="#DDC316"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="7dp"
+        android:layout_marginTop="371dp"
+        android:layout_marginEnd="17dp"
+        android:layout_marginBottom="181dp"
+        android:onClick="openbrowser6"
+        android:src="@drawable/button"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

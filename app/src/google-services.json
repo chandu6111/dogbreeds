@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205414330803",
+    "project_id": "paw-nation-app",
+    "storage_bucket": "paw-nation-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205414330803:android:b92e9e0e0235cddca39bc6",
+        "android_client_info": {
+          "package_name": "com.example.pawnationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205414330803-f80gt151ta6kor65a3luutfghta9in1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMcJqKjuO-W-yFJCnp0dmWHfK9NdI5iuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205414330803-f80gt151ta6kor65a3luutfghta9in1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
